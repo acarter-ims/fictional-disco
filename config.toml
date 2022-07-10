@@ -1,4 +1,4 @@
-baseURL = 'http://hiveunderground.com'
+baseURL = 'http://hugo.hiveunderground.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "docsy"
